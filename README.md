@@ -1,2 +1,2 @@
 # massive_SortArray
-One method of sorning massive
+One method of sorting massive

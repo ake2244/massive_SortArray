@@ -1,2 +1,2 @@
 # massive_SortArray
-One method of sorting massive
+One method of sorting massive without HashSet
